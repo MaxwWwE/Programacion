@@ -1,4 +1,4 @@
-Algoritmo Area_Cuadrado
+Algoritmo Ejercicio_01
 	Definir L, Area Como Entero
 	
 	Escribir "ingresar lado del cuadrado"
@@ -6,6 +6,6 @@ Algoritmo Area_Cuadrado
 	
 	Area = L*L
 	
-	Escribir "Su resultado ser·  ", Area
+	Escribir "Su resultado ser√°  ", Area
 	
 FinAlgoritmo
